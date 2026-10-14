@@ -1,0 +1,6 @@
+{
+  "Name": "OpenAI-Demo",
+  "ProjectType": "Process",
+  "Description": "Testing the OpenAI feature",
+  "MainFile": "Main.xaml"
+}
